@@ -1,0 +1,5 @@
+0                 #input count
+0                 #input scale fanctor
+90.0e0            #coupling applied field angle (theta) (deg)
+0.0e0             #coupling applied field angle (phi) (deg)
+0                 #seed

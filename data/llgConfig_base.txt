@@ -1,0 +1,28 @@
+1448.3e0          #magnetization (emu/c.c.)
+0.0e0             #demagnetization coefficient (x)
+0.0e0             #demagnetization coefficient (y)
+1.0e0             #demagnetization coefficient (z)
+0.0e0             #crystalline anisotropy field (x) (Oe)
+0.0e0             #crystalline anisotropy field (y) (Oe)
+1.8616e4          #crystalline anisotropy field (z) (Oe)
+2.0e2             #applied field (Oe)
+0.0e0             #applied field angle (theta) (deg)
+0.0e0             #applied field angle (phi) (deg)
+0.0e0             #dipole field (Oe)
+2.500e-3          #applied current magnitude (A)
+0.537e0           #spin polarization of current
+0.288e0           #asymmetric factor of spin torque
+0.0e0             #field like torque 
+90.0e0            #pinned layer magnetization direction (theta) (deg)
+0.0e0             #pinned layer magnetization direction (phi) (deg)
+2.0e-7            #thickness (cm)
+60.0e-7           #half of long axis radius (cm)
+60.0e-7           #half of short axis radius (cm)
+1.764e7           #gyromagnetic ratio (rad/Oe s)
+0.005e0           #Gilbert damping constant 
+0.0e0             #temperature (K)
+1.0e0             #initial direction of the magnetization (theta)
+1.0e0             #initial direction of the magnetization (phi)
+1.0e-1            #epsilon (deviation for evaluation of Lyapunov exponent) (deg)
+1                 #number of sampling 
+0                 #seed number of random variables

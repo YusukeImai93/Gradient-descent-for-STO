@@ -1,0 +1,5 @@
+1 #200               #number of stos
+50 #1000.0       #spectorRadius --> coupling strength, original: 500
+90.0e0            #coupling applied field angle (theta) (deg)
+0.0e0             #coupling applied field angle (phi) (deg)
+0                 #seed

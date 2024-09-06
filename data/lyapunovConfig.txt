@@ -1,0 +1,7 @@
+rungeKutta              #solver name
+1.0e-7 #1.0e-6          #washout time [sec]
+4.0e-7 #1.0e-6          #evaluation time [sec]
+1.0e-11   #2.0e-14      #50000000  #step size
+1.0e-11                  #sampling count
+0.001                    #perturbationNorm
+0                       #seed

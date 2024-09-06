@@ -1,0 +1,4 @@
+rungeKutta              #solver name
+1.0e-9 #5.0e-8 #1.0e-6            #total time (s)
+5.0e-13 #5.0e-13 #5.0e-11 #1.0e-11   #2.0e-14    #50000000  #step size
+1.0e-11                  #sampling count
