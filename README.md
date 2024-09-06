@@ -7,7 +7,9 @@ Main program
 
 - Spin_neuralODE.py
 Program of the gradient descent with auto matic differentiation with torch.adjoint
+
 This program was made for the system identification.
+
 By changing the loss function and adding fc(1) and fc(2) to the set of the trained parameters, one can use this program for the MNIST task.
 
 - coupledLlg.py
